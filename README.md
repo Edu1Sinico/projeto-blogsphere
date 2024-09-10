@@ -146,7 +146,7 @@ O cronograma será divido em três meses:
 <br>
 Este diagrama destaca as ações possíveis para os usuários:
 
-1. Usuário Comum:
+1. Usuário:
     - Adicionar, editar, excluir e visualizar Blogs.
     - Adicionar comentários, avaliar publicações de outros usuários.
     - Gerenciar perfil e publicações.
@@ -155,7 +155,7 @@ Este diagrama destaca as ações possíveis para os usuários:
 
 **_Fluxograma de Classe:_**
 <div align="center">
-    <img src="fluxogramas/diagrama_de_classes.png" alt="Diagrama de Classe" width="800vh">
+    <img src="documentos/diagrama_de_classes_blogsphere.png" alt="Diagrama de Classe" width="800vh">
 </div>
 <br>
 
@@ -171,7 +171,7 @@ Este diagrama mostra as classes principais do sistema e como elas interagem:
 
 **_Fluxograma de Fluxo:_**
 <div align="center">
-    <img src="fluxogramas/diagrama_de_fluxos.png" alt="Diagrama de Fluxo" width="800vh">
+    <img src="documentos/diagrama_de_fluxos_blogsphere.png" alt="Diagrama de Fluxo" width="800vh">
 </div>
 <br>
 
