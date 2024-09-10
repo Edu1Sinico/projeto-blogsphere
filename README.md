@@ -155,7 +155,7 @@ Este diagrama destaca as ações possíveis para os usuários:
 
 **_Fluxograma de Classe:_**
 <div align="center">
-    <img src="documentos/diagrama_de_classes_blogsphere.png" alt="Diagrama de Classe" width="800vh">
+    <img src="documentos/diagrama_de_classe_blogsphere.png" alt="Diagrama de Classe" width="800vh">
 </div>
 <br>
 
