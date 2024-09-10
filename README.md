@@ -1,4 +1,4 @@
-# Projeto To-Do-List
+# Projeto BlogSphere
 <br>
 <div align="center">
     <img src="logo_blogsphere.png" alt="Logo BlogSphere" width="200vh">
