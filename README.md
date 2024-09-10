@@ -1,13 +1,8 @@
 # Projeto To-Do-List
-
 <br>
 <div align="center">
     <img src="logo_blogsphere.png" alt="Logo BlogSphere" width="200vh">
 </div>
-
-**Sobre:** <br>
-Repositório destinado ao projeto "BlogSphere" Website.
-
 <br>
 
 >  ## _índice:_
