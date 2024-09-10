@@ -31,27 +31,27 @@ Fornecer uma ferramenta intuitiva e eficiente para a organização de tarefas do
 Os principais objetivos desse sistema, são:<br>
 
 **1. Específicos:**
-Automatizar o processo de gerenciamento de tarefas.
+Criar uma plataforma intuitiva que permita aos usuários escrever, editar e publicar seus próprios blogs, com foco em facilitar a navegação e interação.
 
 <br>
 
 **2. Mensuráveis:**
-Acompanhar a quantidade de tarefas concluídas semanalmente.
+Atingir ao menos 1.000 blogs publicados no primeiro ano após o lançamento e garantir um tempo de carregamento inferior a 2 segundos para 90% das páginas.
 
 <br>
 
 **3. Atingíveis:**
-Garantir que o sistema seja acessível e fácil de usar para todos os colaboradores.
+Desenvolver uma interface escalável e responsiva utilizando tecnologias modernas como React e Node.js, com um sistema de gerenciamento simples para os administradores.
 
 <br>
 
 **4. Relevantes:**
-Aumentar a produtividade e eficiência dos colaboradores na execução de suas tarefas.
+Fomentar a criação de conteúdo diversificado e de qualidade, conectando autores e leitores em um espaço seguro e de confiança.
 
 <br>
 
 **5. Temporais:**
-Concluir o desenvolvimento e implementação do projeto em 3 meses.
+Concluir o desenvolvimento da plataforma e o lançamento da versão final em até 3 meses.
 
 
 <br>
