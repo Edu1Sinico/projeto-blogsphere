@@ -171,7 +171,7 @@ Este diagrama mostra as classes principais do sistema e como elas interagem:
 
 **_Fluxograma de Fluxo:_**
 <div align="center">
-    <img src="documentos/diagrama_de_fluxos_blogsphere.png" alt="Diagrama de Fluxo" width="800vh">
+    <img src="documentos/diagrama_de_fluxo_blogsphere.png" alt="Diagrama de Fluxo" width="800vh">
 </div>
 <br>
 
