@@ -130,7 +130,7 @@ O cronograma será divido em três meses:
 
 **_Cronograma de Gantt do Projeto:_**
 <div align="center">
-    <img src="documentos/projeto_blogsphere_cronograma" alt="Cronograma do Projeto" width="800vh">
+    <img src="documentos/projeto_blogsphere_cronograma.png" alt="Cronograma do Projeto" width="800vh">
 </div>
 
 <br>
