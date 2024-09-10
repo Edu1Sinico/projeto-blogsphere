@@ -68,76 +68,69 @@ O cronograma será divido em três meses:
 
 <br>
 
-**2. Semana 3: Prototipagem de Baixa Fidelidade**
+**2. Semana 3: Prototipagem de Baixa, Média e Alta Fidelidade**
 - Desenvolvimento de wireframes e protótipos de baixa fidelidade para o layout do BlogSphere.
-- Revisão e ajustes com base no feedback dos stakeholders e cliente.
+- Criação de protótipos de média fidelidade incorporando o feedback do cliente.
+- Apresentação e aprovação dos protótipos pelo cliente.
 
 <br>
 
-**3. Semana 4: Prototipagem de Média Fidelidade**
-- Criação de protótipos de média fidelidade incorporando o feedback do cliente.
-- Apresentação e aprovação dos protótipos pelo cliente.
+**3. Semana 4: Configuração do Ambiente de Desenvolvimento**
+- Configuração do ambiente de desenvolvimento (React, Node.js, MongoDB).
+- Implementação das funcionalidades principais (CRUD de posts, sistema de comentários, interface básica do usuário).
 
 <hr>
 
 ### Mês 2: Desenvolvimento
 
-**1. Semana 5-6: Configuração do Ambiente de Desenvolvimento**
-- Configuração do ambiente de desenvolvimento (React, Node.js, MongoDB).
-- Implementação das funcionalidades principais (CRUD de posts, sistema de comentários, interface básica do usuário).
-
-<br>
-
-**2. Semana 7: Desenvolvimento do Backend**
+**1. Semana 5-6: Desenvolvimento do Backend**
 - Desenvolvimento das APIs em Node.js para gerenciamento de posts e comentários.
 - Configuração e integração do MongoDB com o backend.
 
 <br>
 
-**3. Semana 8: Implementação de Autenticação**
+**2. Semana 7: Implementação de Autenticação**
 - Implementação do sistema de autenticação usando JWT para acesso seguro.
 - Testes iniciais de autenticação e segurança.
+<br>
+
+**3. Semana 8: Desenvolvimento do Frontend**
+- Desenvolvimento da interface de usuário com React e Bootstrap.
+- Implementação de funcionalidades dinâmicas, como atualização em tempo real de novos posts e comentários.
 
 <br>
 
-**4. Semana 9: Desenvolvimento do Frontend**
-- Desenvolvimento da interface de usuário com React e Bootstrap.
-- Implementação de funcionalidades dinâmicas, como atualização em tempo real de novos posts e comentários.
+**4. Semana 9: Testes Funcionais**
+- Realização de testes funcionais em todas as funcionalidades do site.
+- Correção de bugs identificados durante os testes.
+- Testes de usabilidade com grupos de usuários (autores e leitores).
 
 <hr>
 
 ### Mês 3: Testes e Implementação
 
-**1. Semana 10: Testes Funcionais**
-- Realização de testes funcionais em todas as funcionalidades do site.
-- Correção de bugs identificados durante os testes.
-- Testes de usabilidade com grupos de usuários (autores e leitores).
-
-<br>
-
-**2. Semana 11: Testes de Segurança e Desempenho**
+**1. Semana 10: Testes de Segurança e Desempenho**
 - Testes de segurança para garantir proteção contra injeções de código e acessos não autorizados.
 - Testes de desempenho, incluindo carga e tempo de resposta do site.
 
 <br>
 
-**3. Semana 12: Ajustes Finais e Documentação**
+**2. Semana 11: Ajustes Finais e Documentação**
 - Realização de ajustes finais com base nos testes de funcionalidade e segurança.
 - Finalização da documentação do projeto, incluindo manual de instruções e análise de riscos.
 - Preparação e implementação da aplicação no ambiente de produção.
 
 <br>
 
-**4. Semana 13: Entrega do Projeto**
+**3. Semana 12: Entrega do Projeto**
 - Apresentação do projeto finalizado para o cliente.
 - Entrega do projeto e todos os materiais/documentação para o cliente.
-
 
 <br>
 
 **_Cronograma de Gantt do Projeto:_**
 <div align="center">
-    <img src="projeto_cronograma/cronograma_todo_list.png" alt="Cronograma do Projeto" width="800vh">
+    <img src="documentos/projeto_blogsphere_cronograma" alt="Cronograma do Projeto" width="800vh">
 </div>
 
 <br>
