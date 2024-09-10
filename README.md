@@ -141,16 +141,15 @@ O cronograma será divido em três meses:
 
 **_Fluxograma de Uso:_**
 <div align="center">
-    <img src="fluxogramas/diagrama_de_uso.png" alt="Diagrama de Uso" width="800vh">
+    <img src="documentos/diagrama_de_uso_blogsphere.png" alt="Diagrama de Uso" width="800vh">
 </div>
 <br>
-Este diagrama destaca as ações possíveis para os usuários comuns e administradores:
+Este diagrama destaca as ações possíveis para os usuários:
 
 1. Usuário Comum:
-    - Adicionar, editar, excluir e visualizar tarefas.
-    - Adicionar comentários, definir status e conclusão das tarefas.
-2. Administrador:
-    - Além das funções do usuário comum, o administrador pode gerenciar grupos de tarefas e usuários.
+    - Adicionar, editar, excluir e visualizar Blogs.
+    - Adicionar comentários, avaliar publicações de outros usuários.
+    - Gerenciar perfil e publicações.
 
 <br>
 
