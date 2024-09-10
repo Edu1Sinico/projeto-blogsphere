@@ -2,6 +2,8 @@
 <br>
 <div align="center">
     <img src="logo_blogsphere.png" alt="Logo BlogSphere" width="200vh">
+    <br>
+    <b>Sua Voz, Seu Espaço, Suas Histórias.</b>
 </div>
 <br>
 
@@ -16,9 +18,11 @@
 - [Estrutura de Programação](#estrutura-de-programação);
 
 >  ## _Introdução_
-A organização eficiente das tarefas diárias é um desafio constante para muitas instituições, incluindo o SENAI. Para melhorar a produtividade e garantir que todas as atividades sejam executadas de forma ordenada e dentro dos prazos estabelecidos, a escola SENAI identificou a necessidade de uma solução simples e eficaz. Em resposta a essa demanda, fui encarregado de desenvolver uma aplicação de gerenciamento de tarefas (To-Do-List) voltada especificamente para os colaboradores da instituição.
-
-Este projeto visa fornecer uma ferramenta prática e intuitiva que permitirá aos colaboradores organizar suas tarefas de maneira mais eficiente e segura. A aplicação não apenas facilitará o acompanhamento e a conclusão das atividades, mas também promoverá um ambiente de trabalho mais organizado e produtivo, contribuindo positivamente para o cumprimento dos objetivos institucionais.
+**Blogsphere** é uma plataforma onde pessoas podem compartilhar suas ideias, experiências e
+conhecimentos através de blogs. Aqui, cada autor encontra seu espaço para se expressar
+livremente e interagir com uma comunidade vibrante e diversificada, que valoriza o poder das
+histórias e da troca de perspectivas. Seja para explorar, aprender ou inspirar, o **Blogsphere** é o
+lugar onde sua voz ganha alcance.
 
 <br>
 
