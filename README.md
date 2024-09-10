@@ -63,19 +63,19 @@ O cronograma será divido em três meses:
 
 **1. Semana 1-2: Pesquisa e Requisitos**
 - Coleta de requisitos junto aos stakeholders.
-- Definição das funcionalidades principais.
-- Criação da documentação inicial do projeto.
+- Definição das funcionalidades principais do site de blogs.
+- Criação da documentação inicial do projeto (Introdução, Objetivos, Funcionalidades).
 
 <br>
 
 **2. Semana 3: Prototipagem de Baixa Fidelidade**
-- Desenvolvimento de wireframes e protótipos de baixa fidelidade.
-- Revisão e ajustes com base no feedback dos stakeholders.
+- Desenvolvimento de wireframes e protótipos de baixa fidelidade para o layout do BlogSphere.
+- Revisão e ajustes com base no feedback dos stakeholders e cliente.
 
 <br>
 
 **3. Semana 4: Prototipagem de Média Fidelidade**
-- Criação de protótipos de média fidelidade, incorporando feedbacks.
+- Criação de protótipos de média fidelidade incorporando o feedback do cliente.
 - Apresentação e aprovação dos protótipos pelo cliente.
 
 <hr>
@@ -84,52 +84,54 @@ O cronograma será divido em três meses:
 
 **1. Semana 5-6: Configuração do Ambiente de Desenvolvimento**
 - Configuração do ambiente de desenvolvimento (React, Node.js, MongoDB).
-- Implementação das funcionalidades principais (CRUD de tarefas, interface básica).
+- Implementação das funcionalidades principais (CRUD de posts, sistema de comentários, interface básica do usuário).
 
 <br>
 
 **2. Semana 7: Desenvolvimento do Backend**
-- Desenvolvimento das APIs em Node.js para gerenciamento de tarefas.
+- Desenvolvimento das APIs em Node.js para gerenciamento de posts e comentários.
 - Configuração e integração do MongoDB com o backend.
 
 <br>
 
 **3. Semana 8: Implementação de Autenticação**
-- Implementação do sistema de autenticação usando JWT.
+- Implementação do sistema de autenticação usando JWT para acesso seguro.
 - Testes iniciais de autenticação e segurança.
 
 <br>
 
-**3. Semana 9: Desenvolvimento do Frontend**
+**4. Semana 9: Desenvolvimento do Frontend**
 - Desenvolvimento da interface de usuário com React e Bootstrap.
-- Implementação de funcionalidades dinâmicas, como atualização em tempo real de tarefas.
+- Implementação de funcionalidades dinâmicas, como atualização em tempo real de novos posts e comentários.
 
 <hr>
 
 ### Mês 3: Testes e Implementação
 
 **1. Semana 10: Testes Funcionais**
-- Realização de testes funcionais e correção de bugs.
-- Testes de usabilidade com grupos de usuários.
+- Realização de testes funcionais em todas as funcionalidades do site.
+- Correção de bugs identificados durante os testes.
+- Testes de usabilidade com grupos de usuários (autores e leitores).
 
 <br>
 
 **2. Semana 11: Testes de Segurança e Desempenho**
-- Testes de segurança (prevenção contra injeções de código, acessos não autorizados).
-- Testes de desempenho, incluindo carga e tempo de resposta.
+- Testes de segurança para garantir proteção contra injeções de código e acessos não autorizados.
+- Testes de desempenho, incluindo carga e tempo de resposta do site.
 
 <br>
 
 **3. Semana 12: Ajustes Finais e Documentação**
-- Realização de ajustes finais com base nos testes.
-- Finalização da documentação do projeto.
-- Preparação e implementação da aplicação em ambiente de produção.
+- Realização de ajustes finais com base nos testes de funcionalidade e segurança.
+- Finalização da documentação do projeto, incluindo manual de instruções e análise de riscos.
+- Preparação e implementação da aplicação no ambiente de produção.
 
 <br>
 
-**3. Semana 13: Entrega do Projeto**
+**4. Semana 13: Entrega do Projeto**
 - Apresentação do projeto finalizado para o cliente.
-- Entrega do projeto para o cliente.
+- Entrega do projeto e todos os materiais/documentação para o cliente.
+
 
 <br>
 
