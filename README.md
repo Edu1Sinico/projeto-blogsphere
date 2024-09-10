@@ -27,7 +27,7 @@ lugar onde sua voz ganha alcance.
 <br>
 
 > ## _Objetivos do Projeto_
-Fornecer uma ferramenta intuitiva e eficiente para a organização de tarefas dos colaboradores.<br><br>
+Fornecer uma plataforma intuitiva e eficiente para a busca de conhecimento ou entreterimento dos usuários.<br><br>
 Os principais objetivos desse sistema, são:<br>
 
 **1. Específicos:**
