@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="Logo logo_blogsphere.png" alt="Logo BlogSphere" width="200vh">
+    <img src="logo_blogsphere.png" alt="Logo BlogSphere" width="200vh">
 </div>
 
 **Sobre:** <br>
