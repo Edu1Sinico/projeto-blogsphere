@@ -177,21 +177,21 @@ Este diagrama mostra as classes principais do sistema e como elas interagem:
 
 Este diagrama representa o fluxo principal do sistema BlogSphere, desde a tela de início até as principais funcionalidades disponíveis para os usuários. Abaixo estão as etapas detalhadas do fluxo:
 
-- **Início**: É a primeira página que o usuário acessa ao entrar no sistema. O usuário pode tomar a decisão de realizar uma ação, como se registrar ou fazer login.
+**1. Início**: É a primeira página que o usuário acessa ao entrar no sistema. O usuário pode tomar a decisão de realizar uma ação, como se registrar ou fazer login.
 
-- **Ação**: Após acessar a página inicial, o usuário tem a possibilidade de escolher se deseja fazer login ou registrar uma nova conta.
+**2. Ação**: Após acessar a página inicial, o usuário tem a possibilidade de escolher se deseja fazer login ou registrar uma nova conta.
 
-- **Decisão (Login/Registro)**: O sistema verifica se o usuário já possui uma conta:
+**3. Decisão (Login/Registro)**: O sistema verifica se o usuário já possui uma conta:
     - Se o usuário já tiver uma conta, ele será redirecionado para a tela de login.
     - Se o usuário ainda não tiver uma conta, ele será encaminhado para a tela de registro para criar um novo perfil.
 
-- **Login**: Caso o usuário já tenha uma conta, ele será redirecionado para realizar o login. Após a autenticação, ele poderá acessar as funcionalidades principais da plataforma.
+**4. Login**: Caso o usuário já tenha uma conta, ele será redirecionado para realizar o login. Após a autenticação, ele poderá acessar as funcionalidades principais da plataforma.
 
-- **Registro**: Se o usuário não tiver uma conta, ele será redirecionado para a tela de criação de perfil, onde poderá se cadastrar.
+**5. Registro**: Se o usuário não tiver uma conta, ele será redirecionado para a tela de criação de perfil, onde poderá se cadastrar.
 
-- **Tela (Login)**: Após a autenticação bem-sucedida, o usuário será redirecionado para a página principal da plataforma, onde poderá realizar diversas ações.
+**6. Tela (Login)**: Após a autenticação bem-sucedida, o usuário será redirecionado para a página principal da plataforma, onde poderá realizar diversas ações.
 
-- **Ação**: Depois de logado, o usuário pode acessar as funcionalidades disponíveis, como:
+**7. Ação**: Depois de logado, o usuário pode acessar as funcionalidades disponíveis, como:
     - **Perfil**: O usuário pode visualizar e editar seu perfil.
     - **Postar**: O usuário pode criar novos posts para compartilhar suas ideias.
     - **Avaliar**: O usuário pode avaliar os posts de outros membros da comunidade, proporcionando feedback e interação.
