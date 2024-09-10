@@ -159,14 +159,6 @@ Este diagrama destaca as ações possíveis para os usuários:
 </div>
 <br>
 
-Este diagrama mostra as classes principais do sistema e como elas interagem:
-
-- **Usuário**: Contém atributos como ID, nome, email, senha e tipo de usuário. Os métodos associados incluem login, logout, cadastro de tarefas, remoção, atualização e visualização de tarefas.
-
-- **Tarefas**: Classe que define as tarefas, com atributos como ID, descrição, prioridade, datas de criação e conclusão, prazo e status. Os métodos incluem alterar o status, concluir, definir prioridade e adicionar descrição.
-
-- **Grupos**: Gerencia os grupos de usuários, contendo atributos como ID, nome do grupo, email, descrição, lista de usuários e permissões. Os métodos incluem adicionar, remover e listar usuários, além de definir permissões.
-
 <br>
 
 **_Fluxograma de Fluxo:_**
