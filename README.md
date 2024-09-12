@@ -158,6 +158,50 @@ Este diagrama destaca as ações possíveis para os usuários:
     <img src="documentos/diagrama_de_classe_blogsphere.png" alt="Diagrama de Classe" width="800vh">
 </div>
 <br>
+Este diagrama mostra as classes principais do sistema e como elas interagem:<br><br>
+
+_**Usuário:**_ <br>
+
+A classe Usuário contém atributos essenciais para representar cada usuário do sistema.<br>
+
+**Atributos:**
+
+- ID: Identificador único do usuário.
+- Nome: Nome do usuário.
+- Email: Endereço de e-mail do usuário.
+- Senha: Senha usada para autenticação no sistema.
+
+**Métodos:**
+
+- login(): Método para autenticar o usuário e permitir o acesso ao sistema.
+- logout(): Método para finalizar a sessão do usuário.
+- adicionarPub(): Permite que o usuário adicione uma nova publicação.
+- removerPub(): Remove uma publicação existente do usuário.
+- atualizarPub(): Atualiza uma publicação criada pelo usuário.
+- visualizarPub(): Exibe uma lista de publicações criadas pelo usuário.
+
+<hr>
+
+_**Blogs:**_ <br>
+A classe Blogs gerencia as publicações feitas pelos usuários no sistema.<br>
+
+**Atributos:**
+
+- ID: Identificador único da publicação.
+- Título: Título da publicação.
+- Descricao: Conteúdo da publicação.
+- dataPublicacao: Data em que a publicação foi criada.
+- dataModificacao: Data da última modificação da publicação.
+- Comentarios: Campo onde os usuários podem adicionar comentários à publicação.
+- Avaliacao: Avaliação média atribuída pelos usuários.
+
+**Métodos:**
+
+- adicionarComentario(): Permite que os usuários adicionem comentários à publicação.
+- avaliarPublicacao(): Permite aos usuários avaliar a publicação com base em uma escala.
+- denunciarPublicacao(): Método para denunciar publicações que violam as diretrizes.
+- compartilharPublicacao(): Função para compartilhar a publicação com outros usuários ou em redes sociais.
+
 
 <br>
 
