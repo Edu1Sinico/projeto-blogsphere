@@ -84,7 +84,7 @@ export default function BlogPage() {
                 placeholder="Descrição"
             />
             <button onClick={addBlog}>Publicar</button>
-            <ul>
+            {/* <ul>
                 {blogs.length > 0 ? (
                     blogs.map((blog) => (
                         <li key={blog._id}>
@@ -96,7 +96,7 @@ export default function BlogPage() {
                 ) : (
                     <li>Nenhum blog encontrado</li>
                 )}
-            </ul>
+            </ul> */}
         </div>
     );
 }
